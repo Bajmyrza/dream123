@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center; color: chartreuse; border: 5px solid gray; padding: 1px; background-color: gray;
+}
+.uuu{
+    border: 2px solid black;
+}
+.tor{
+    border: 10px solid greenyellow; border-radius: 5px;
+}
+a{
+    background-color: gray
+}
+td{
+    border: 4px solid greenyellow; border-collapse: collapse
+}
+tr{
+    border: 4px solid greenyellow; border-collapse: collapse
+}
+.rty{
+    border: 2px solid black;
+}
+.iii{
+    border: 3px solid black;
+}
